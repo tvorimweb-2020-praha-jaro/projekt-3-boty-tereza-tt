@@ -21,3 +21,37 @@ body {
 */
 
 /* ----- zde zacni psat vlastni css ----- */
+body {
+font-family: 'Rubik', sans-serif;
+}
+
+.kontejner {
+display: flex;
+width: 670px;
+height: 440px;
+}
+
+.slogan {
+    font-size: 16px;
+    font-weight: 500;
+    color: white
+}
+.vizual {
+    background-image: linear-gradient(to bottom right, #06d7c1,#50cc49);
+      }
+
+.cena {
+    font-size: 28px;
+    font-weight: 500;
+    color: white  
+}
+
+.zaruka {
+    font-size: 12px;
+    font-weight: 400;
+    color: white
+}
+
+.cenovka {
+    text-align: left;
+}
