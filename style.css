@@ -55,3 +55,25 @@ height: 440px;
 .cenovka {
     text-align: left;
 }
+
+.nazev {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.produkt {
+    font-size: 14px;
+    font-weight: 400;
+    color: #959595;
+}
+
+.parametr {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font: bold;
+}
+.velikosti {
+display: inline;
+}
