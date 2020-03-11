@@ -31,11 +31,31 @@ width: 670px;
 height: 440px;
 }
 
+.logo {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
 .slogan {
     font-size: 16px;
     font-weight: 500;
-    color: white
+    color: white;
+    padding-left: 30px;
+
 }
+
+.vizual {
+    position: relative;
+}
+.bota {
+    position: absolute;
+    left: -10px;
+    top: 140px;
+    width: 150px;
+    height: 20px;
+}
+
 .vizual {
     background-image: linear-gradient(to bottom right, #06d7c1,#50cc49);
       }
@@ -43,13 +63,14 @@ height: 440px;
 .cena {
     font-size: 28px;
     font-weight: 500;
-    color: white  
+    color: white; 
+    justify-content: left;
 }
 
 .zaruka {
     font-size: 12px;
     font-weight: 400;
-    color: white
+    color: white;
 }
 
 .cenovka {
