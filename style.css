@@ -75,8 +75,14 @@ height: 440px;
     font: bold;
     padding-top: 30px;
 }
+
+li {
+    display: inline;
+    padding: 1em;
+}
+
 .velikosti {
-display: inline;
+padding-left: 30px;
 }
 
 .popis {
@@ -90,4 +96,12 @@ display: inline;
 
 .nazev {
     padding-top: 30px;
+}
+
+.popis {
+    padding-left: 30px;
+}
+
+.akce {
+    padding-left: 30px;
 }
