@@ -73,7 +73,21 @@ height: 440px;
     font-weight: 400;
     text-transform: uppercase;
     font: bold;
+    padding-top: 30px;
 }
 .velikosti {
 display: inline;
+}
+
+.popis {
+    border-bottom: 2px solid #06d7c1;
+    padding-bottom: 30px ;
+}
+
+.tlacitko {
+    padding-bottom: 30px;
+}
+
+.nazev {
+    padding-top: 30px;
 }
