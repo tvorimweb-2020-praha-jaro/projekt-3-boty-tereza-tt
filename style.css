@@ -25,10 +25,15 @@ body {
 font-family: 'Rubik', sans-serif;
 }
 
-.kontejner {
+.zbozi {
 display: flex;
-width: 670px;
-height: 440px;
+}
+
+.vizual {
+    width: 50%;
+}
+.zbozi {
+    width: 50%;
 }
 
 .logo {
